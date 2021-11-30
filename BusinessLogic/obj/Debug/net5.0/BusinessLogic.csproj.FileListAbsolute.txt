@@ -1,0 +1,15 @@
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\bin\Debug\net5.0\DataAccess.dll
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\bin\Debug\net5.0\DataAccess.pdb
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\lập trình cơ sở dữ liệu\Lab08-RestaurantManagementProject\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
